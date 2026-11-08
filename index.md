@@ -1,5 +1,5 @@
-Rakshan Patnaik - rapatnaik@ucsd.ed
-DSC 180A - D37 Renu Raman
+Rakshan Patnaik - rapatnaik@ucsd.ed \
+DSC 180A - D37 Renu Raman \
 
 **What is the most interesting topic covered in your domain this quarter?** \
 The most interesting topic covered in our domain is the idea of a data lake and how it can use knowledge agents to develop a semantic understanding, which can then get passed through as input to
