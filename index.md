@@ -1,4 +1,4 @@
-Rakshan Patnaik - rapatnaik@ucsd.ed \
+Rakshan Patnaik - rapatnaik@ucsd.edu \
 DSC 180A - D37 Renu Raman
 
 **What is the most interesting topic covered in your domain this quarter?** \
